@@ -1,6 +1,6 @@
-package com.company.structural.patterns.adapter.facade.email;
+package com.company.structural.patterns.facade.email;
 
-import com.company.structural.patterns.adapter.facade.Order;
+import com.company.structural.patterns.facade.Order;
 
 // Facade provides simple methods for client to use.
 public class EmailFacade {

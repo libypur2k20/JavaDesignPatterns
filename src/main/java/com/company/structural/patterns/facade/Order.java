@@ -1,4 +1,4 @@
-package com.company.structural.patterns.adapter.facade;
+package com.company.structural.patterns.facade;
 
 public class Order {
 

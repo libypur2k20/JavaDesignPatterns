@@ -1,7 +1,6 @@
-package com.company.structural.patterns.adapter.facade;
+package com.company.structural.patterns.facade;
 
-import com.company.structural.patterns.adapter.facade.email.EmailFacade;
-import com.company.structural.patterns.facade.email.*;
+import com.company.structural.patterns.facade.email.EmailFacade;
 
 public class Client {
 

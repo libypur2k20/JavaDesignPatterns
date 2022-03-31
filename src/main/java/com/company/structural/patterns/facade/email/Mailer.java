@@ -1,4 +1,4 @@
-package com.company.structural.patterns.adapter.facade.email;
+package com.company.structural.patterns.facade.email;
 
 public class Mailer {
 
