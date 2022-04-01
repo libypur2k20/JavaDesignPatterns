@@ -1,4 +1,4 @@
-package com.company.structural.patterns.proxy;
+package com.company.structural.patterns.proxy.staticvirtual;
 
 import javafx.geometry.Point2D;
 

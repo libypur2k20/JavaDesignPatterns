@@ -1,4 +1,4 @@
-package com.company.structural.patterns.proxy;
+package com.company.structural.patterns.proxy.staticvirtual;
 
 // Factory to get image objects
 public class ImageFactory {
